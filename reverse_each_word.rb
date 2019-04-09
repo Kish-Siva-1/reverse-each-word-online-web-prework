@@ -9,7 +9,6 @@ def reverse_each_word(sent1)
   end 
   arr.join(" ")
   
-  
 end 
 
 #reverse_each_word("He went down the road!")
