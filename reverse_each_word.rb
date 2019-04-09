@@ -8,4 +8,7 @@ def reverse_each_word(sent1)
   end 
   sent1.join(" ")
   
+  [1, 2, 3].collect do |word| 
+  end
+  
 end
